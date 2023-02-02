@@ -22,6 +22,7 @@
   "author": "Felix Christl",
   "license": "BSD-2-Clause",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {

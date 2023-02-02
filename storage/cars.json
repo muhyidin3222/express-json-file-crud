@@ -1,0 +1,20 @@
+[
+  {
+    "name": "yos ganteng",
+    "email": "ganteng@gmail.com",
+    "age": 23,
+    "id": 3
+  },
+  {
+    "name": "muhyidin",
+    "email": "muhyidin@gmail.com",
+    "age": 12,
+    "id": 4
+  },
+  {
+    "name": "ahmad muhyidin",
+    "email": "ahmad@gmail.com",
+    "age": 13,
+    "id": 5
+  }
+]
